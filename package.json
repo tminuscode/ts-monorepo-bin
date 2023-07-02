@@ -1,0 +1,7 @@
+{
+  "name": "ts-monorepo-bin",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
